@@ -1,0 +1,8 @@
+name = input("What is your name?")
+print(name + "? What kind of name is that?")
+color = input ("What's your favorite color? Maybe that will be better.")
+print("Seriously? Out of all colors you choose " + color + "? Basic farthead.")
+subject = input("What is your favorite school subject in school?")
+print("Oh shut up! Out of all subjects you decide to choose" + subject + "? What is wrong with you.")
+print("You know what? I hope you go rot in hell you no good lying egghead. ")
+print("Good day, sir.  By the way, Merry Christmas ya filthy animal and a happy New Year. ")
